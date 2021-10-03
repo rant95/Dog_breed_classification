@@ -1,2 +1,2 @@
 # Dog_breed_classification
-Pthon Project
+Python Project
